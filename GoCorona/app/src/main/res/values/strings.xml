@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GoCorona</string>
+    <string name="title_activity_first">First</string>
+    <string name="invalid_name">Please Enter Valid Name</string>
+    <string name="invalid_date">Enter in dd/mm/yy Format</string>
+    <string name="invalid_mobile">Enter Valid Mobile No</string>
+    <string name="invalid_village">Enter Village Name</string>
+    <string name="invald_city">Enter City Name</string>
+    <string name="invalid_district">Enter District Name</string>
+    <string name="invalid_state">Enter State Name</string>
+
+</resources>
